@@ -1,0 +1,26 @@
+{
+    "name": "com.udonvr.recordplayer.protvEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2739125b438c1c542b0b39baf2a3dc3f",
+        "GUID:21332e1f0d937794d916d2402ba1943a",
+        "GUID:84265b35cca3905448e623ef3903f0ff",
+        "GUID:99835874ee819da44948776e0df4ff1d",
+        "GUID:3c1bc1267eab5884ebe7f232c09ee0d9",
+        "GUID:547a23b1b04f6e14cb7f841a5c2d7398",
+        "GUID:d7ed73dc77ddce549a72e421432b4c7e",
+        "GUID:a34edcc090795d24ebafb53fec5b4ca8",
+        "GUID:5b5aaf99749535a42aedbc3313fc3314"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

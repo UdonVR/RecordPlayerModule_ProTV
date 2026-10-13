@@ -1,0 +1,12 @@
+{
+  "name": "com.udonvr.recordplayer.protv",
+  "displayName": "UdonVR - RecordPlayer - ProTV Module",
+  "version": "2.1.2",
+  "unity": "2022.3",
+  "description": "ProTV hook for UdonVR's Record Player.",
+  "author": {
+    "name": "UdonVR",
+    "email": "admin@udonvr.com",
+    "url": "https://udonvr.com"
+  }
+}
